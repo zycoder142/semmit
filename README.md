@@ -1,0 +1,2 @@
+# semmit
+Semantic Message Commit
